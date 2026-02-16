@@ -1,4 +1,4 @@
-🚀 Hello, moi c'est Nolan D'almeida ! ✨
+🚀 HELLO, MOI C'EST NOLAN D'ALMEIDA ! ✨
 ## 🎓 Développeur Web Full-stack Junior
 Actuellement en première année à la Coding Factory (ESIEE-IT) 🏫, je me passionne pour la création d'applications web et mobiles modernes, sécurisées et performantes 💡.
 
