@@ -4,12 +4,13 @@
 
 ## 🛠 Compétences Techniques
 
-## ✅ Langages maîtrisés
+## ✅ Technologies maîtrisés
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## ⏳ À venir
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -20,6 +21,7 @@
 
 
 ## 📁 Projets Réalisés
+
 
 ## 💻 Flash : Plateforme Web Full-stack 👥
 Description : Création en équipe d'un site web complet avec interface utilisateur, interactivité et gestion de base de données.
@@ -38,18 +40,22 @@ Période : Octobre 2025 - Janvier 2026 📅.
 
 ## 👨‍💻 Projets en cours de préparation
 
+
 ## 🌐 Portfolio 
 Description : Conception de mon portfolio interactif avec un design sombre (Dark Mode), utilisant des dégradés élégants et des animations fluides.
 - **Points clés :** Navigation fluide, intégration de la bibliothèque AOS pour les animations au défilement et design responsive.
 
 Stack : HTML5, CSS3 (Flexbox/Grid), AOS Library 🎨.
 
+Période : Février 2026 - Aujourd'hui 📅.
+
+
 ## ⚔️ SNK Wiki - Labday 
 Description : Développement d'un wiki interactif complet sur l'univers de *L'Attaque des Titans* avec un design dynamique et des transformations 3D.
 
 Stack : HTML5, CSS3 (AOS, FontAwesome), JavaScript 🛠️.
 
-Période : Décembre 2025 - Présent 📅.
+Période : Décembre 2025 - Aujourd'hui 📅.
 
 
 
