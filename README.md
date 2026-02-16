@@ -36,5 +36,12 @@ Stack : HTML, CSS 🎨.
 
 Période : Octobre 2025 - Janvier 2026 📅.
 
+## ⚔️ SNK Wiki - Labday (En cours) ⏳
+Description : Développement d'un wiki interactif complet sur l'univers de *L'Attaque des Titans* avec un design dynamique et des transformations 3D.
+
+Stack : HTML5, CSS3 (AOS, FontAwesome), JavaScript 🛠️.
+
+Période : Décembre 2025 - Présent 📅.
+
 
 
