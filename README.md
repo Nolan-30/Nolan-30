@@ -21,6 +21,7 @@ Actuellement en formation à la Coding Factory (ESIEE-IT) 🏫, je me passionne 
 ---
 
 📁 Projets Phares
+
 💻 Projet-Flash : Plateforme Web Full-stack 👥
 Description : Création en équipe d'un site web complet avec interface utilisateur, interactivité et gestion de base de données.
 
@@ -35,7 +36,5 @@ Stack : HTML, CSS 🎨.
 
 Période : Octobre 2025 - Janvier 2026 📅.
 
-📫 Me contacter
-LinkedIn : [Ton lien ici] 🔗
 
-Portfolio : [Ton lien GitHub Pages ici] 🌐
+
