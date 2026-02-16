@@ -1,6 +1,6 @@
 #  🚀 Hello, moi c'est Nolan D'almeida ! ✨
 ## 🎓 Développeur Web Full-stack Junior
-Actuellement en première année à la Coding Factory (ESIEE-IT) 🏫, je me passionne pour la création d'applications web et mobiles modernes, sécurisées et performantes 💡.
+   🏫 Actuellement en première année à la Coding Factory (ESIEE-IT), je me passionne pour la création d'applications web et mobiles modernes, sécurisées et performantes 💡.
 
 ## 🛠 Compétences Techniques
 
@@ -18,9 +18,8 @@ Actuellement en première année à la Coding Factory (ESIEE-IT) 🏫, je me pas
 ![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![API REST](https://img.shields.io/badge/API-REST-orange?style=for-the-badge&logo=googlecloud&logoColor=white)
 
----
 
-## 📁 Projets Phares
+## 📁 Projets Réalisés
 
 ## 💻 Projet-Flash : Plateforme Web Full-stack 👥
 Description : Création en équipe d'un site web complet avec interface utilisateur, interactivité et gestion de base de données.
