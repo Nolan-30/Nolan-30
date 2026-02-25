@@ -21,50 +21,6 @@
 ![API REST](https://img.shields.io/badge/API-REST-orange?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 
-## 🏆 Projets Scolaire Réalisés
-
-
-## 💻 Flash : Plateforme Web Full-stack 👥
-Description : Création en équipe d'un site web complet avec interface utilisateur, interactivité et gestion de base de données.
-
-Stack : HTML, CSS, JS, PHP, SQL 🛠️.
-
-Période : Septembre 2025 - Décembre 2025 📅.
-
-## 👨‍💻 Projets Scolaire En Cours ...
-
-
-## ⚔️ SNK Wiki - Labday 
-Description : Développement d'un wiki interactif complet sur l'univers de *L'Attaque des Titans* avec un design dynamique et des transformations 3D.
-
-Stack : HTML5, CSS3 (AOS, FontAwesome), JavaScript 🛠️.
-
-Période : Décembre 2025 - Aujourd'hui 📅.
-
-
-## 🏆 Projets Personnels Réalisés
-
-
-## 📺 Penthouse : Site Vitrine 
-Description : Conception et développement d'un site vitrine complet illustrant l'intrigue, les personnages et les saisons de mon K-drama préféré.
-
-Stack : HTML, CSS 🎨.
-
-Période : Octobre 2025 - Janvier 2026 📅.
-
-## 👨‍💻 Projets Personnels En Cours ...
-
-
-## 🌐 Portfolio 
-Description : Conception de mon portfolio interactif avec un design sombre (Dark Mode), utilisant des dégradés élégants et des animations fluides.
-- **Points clés :** Navigation fluide, intégration de la bibliothèque AOS pour les animations au défilement et design responsive.
-
-Stack : HTML5, CSS3 (Flexbox/Grid), AOS Library 🎨.
-
-Période : Février 2026 - Aujourd'hui 📅.
-
-
-
 
 
 
